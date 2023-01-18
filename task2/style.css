@@ -1,0 +1,20 @@
+*{
+    font-size: large;
+    background-color: plum;
+
+}
+
+
+.clr1{
+    color: black;
+
+}
+tr{
+    background-color:chartreuse;
+}
+#tb{
+    background-color: darkred;
+}
+#tb2{
+    background-color: deepskyblue;
+}
